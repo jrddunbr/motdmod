@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "motdmod",
+  "name": "MOTD Mod",
+  "description": "a motd mod, for sending messages on connect",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["jrddunbr"],
+  "credits": "jrddunbr",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
