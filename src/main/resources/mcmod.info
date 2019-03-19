@@ -2,10 +2,10 @@
 {
   "modid": "motdmod",
   "name": "MOTD Mod",
-  "description": "a motd mod, for sending messages on connect",
+  "description": "a motd mod, for sending messages on player connect",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://ja13.org",
   "updateUrl": "",
   "authorList": ["jrddunbr"],
   "credits": "jrddunbr",
